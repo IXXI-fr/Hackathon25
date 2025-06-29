@@ -41,4 +41,9 @@ Votre environnement de travail sur l'infrastructure du CBPsmn est alors initiali
 - installer un environnement python qui comprend tous les packages dont vous aurez besoin (dans `/projects/LaboratoireIXXI/Hackathon25/users/[USER]/python`)
 - cloner le dépôt Github du hackaton dans `/projects/LaboratoireIXXI/Hackathon25/users/[USER]/ressources`. Vous y trouverez notamment les données, leur description et les tutoriels. 
 
-Pour tester votre installation, vous pouvez essayer d'exécuter l'un des tutoriel. Dans VSCode, allez dans le menu `Fichier > ouvrir un dossier`. Choisissez le dossier `/projects/LaboratoireIXXI/Hackathon25/users/[USER]/ressources`. Dans le panne
+Pour tester votre installation, vous pouvez essayer d'exécuter l'un des tutoriel. Dans VSCode, allez dans le menu `Fichier > ouvrir un dossier`. Choisissez le dossier `/projects/LaboratoireIXXI/Hackathon25/users/[USER]/ressources`. Dans le panneau de gauche, sélectionnez le fichier `tutoriels>Ollama_question_simple.ipynb` et cliquez sur le triangle pour exécuter la première cellule :
+
+<img src="img/VSCode_Ollama_question_simple.png"  width="600"/>
+
+VSCode va vous demander quel kernel (quel Python) utiliser pour exécuter ce notebook. Sélectionnez `Environnement Jupyter` puis `Hackathon_IXXI`. La première cellule du notebook s'exécute. Vous pouvez à présent exécuter la seconde, qui fait appel à un LLM pour répondre à la question *Qu'est-ce qu'un hackathon ?*.
+
