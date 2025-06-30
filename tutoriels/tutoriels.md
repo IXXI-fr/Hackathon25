@@ -14,7 +14,7 @@ Pour coder, nous proposons d'utiliser l'éditeur [VSCode](https://code.visualstu
 
 La première étape est donc de vous assurer que VSCode est bien installé sur votre ordinateur. 
 
-La seconde étape est d'installer l'extension *Remote – SSH* qui permettra à VSCode de se connecter à un serveur distant. Si vous lisez ceci sur votre propre ordinateur et que VSCode est installé sur celui-ci, vous pouvez installer l'extension *Remote – SSH*  en cliquant [ici](vscode:extension/ms-vscode-remote.remote-ssh). Sinon, vous pouvez cliquer sur l'icone *Extensions* dans la barre de gauche de VSCode :
+La seconde étape est d'installer l'extension *Remote – SSH* qui permettra à VSCode de se connecter à un serveur distant. Si vous lisez ceci sur votre propre ordinateur et que VSCode est installé sur celui-ci, vous pouvez installer l'extension *Remote – SSH*  en cliquant [ici](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh). Sinon, vous pouvez cliquer sur l'icone *Extensions* dans la barre de gauche de VSCode :
 
 <img src="img/VSCode_newExtension.png"  width="600"/>
 
