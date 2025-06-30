@@ -24,7 +24,10 @@ La troisème étape consiste à indiquer a VSCode le nom du serveur sur lequel v
 <img src="img/VSCode_newConnection.png"  width="600"/>
 
 
-Dans le menu qui s'ouvre cliquez sur *Connect to Host...* puis sur *+ Add New SSH Host*. Entrez alors la commande suivante `ssg [USER]@epyc4.cbp.ens-lyon.fr`, où [USER] est remplacé par l'identifiant de votre compte ENS. 
+Dans le menu qui s'ouvre cliquez sur *Connect to Host...* puis sur *+ Add New SSH Host*. Entrez alors la commande suivante 
+* `ssh [USER]@epyc4.cbp.ens-lyon.fr`,
+
+où [USER] est remplacé par l'identifiant de votre compte ENS. 
 
 Vous pouvez alors cliquer de nouveau sur le bouton en bas à gauche de la fenêtre VSCode et voir, cette fois-ci, le serveur `epyc4.cbp.ens-lyon.fr`apparaitra dans le menu. Sélectionnez-le, votre mot de passe vous sera demandé. Une nouvelle fenêtre VSCode s'ouvre, vous êtes connecté au serveur. 
 
