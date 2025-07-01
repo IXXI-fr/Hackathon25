@@ -16,9 +16,19 @@ Jeu de données qui rassemble plus de 400 compte-rendusrédigés par des étudia
 
 [Données](ComptesRendus)
 
-## Visites
+## La Curée
+Vous disposez d’un roman francophone (La Curée de Zola) et de 4 de ses traductions en anglais. Nous vous proposons deux questions à poser à ce corpus
+
+[Description complète](LaCurée.pdf)
+
+[Données](LaCurée)
 
 ## Rêves
+Avec ce sujet, nous vous proposons de travailler sur une base d’environ 30 000 récits de rêves en anglais, collectés entre 1964 et 2017 extraits à partir du site [DreamBank.net](https://dreambank.net/). 
 
-## Traductions
+[Description complète](Rêves.pdf)
+
+[Données](Rêves)
+
+## Visites
 
