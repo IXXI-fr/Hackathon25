@@ -30,5 +30,11 @@ Avec ce sujet, nous vous proposons de travailler sur une base d’environ 30 000
 
 [Données](Rêves)
 
-## Visites
+## Visites guidées
+Ce jeu de données est constitué de transcriptions des interactions lors de 4 visites guidées
+qui ont eu lieu au Palais des Beaux-Arts de Lille en 2022 et permet de travailler sur différentes dimensions du langage en interaction, notamment sur les variations entre grammaire de l’écrit et grammaire
+de l’oral.
 
+[Description complète](VisitesGuidées.pdf)
+
+[Données](VisitesGuidées)
