@@ -34,7 +34,7 @@ Modifiez (créez) le fichier de configuration ssh :
 
 - Linux	~/.ssh/config	
 - macOS	~/.ssh/config
-- Windows	C:\Users\<TonNom>\.ssh\config
+- Windows	C:\Users\\<TonNom>\.ssh\config
 
 Le contenu a y indiquer est [ici](config)
 
