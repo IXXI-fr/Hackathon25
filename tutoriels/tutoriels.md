@@ -19,15 +19,24 @@ La seconde étape est d'installer l'extension *Remote – SSH* qui permettra à
 <img src="img/VSCode_newExtension.png"  width="600"/>
 
 
-La troisème étape consiste à indiquer a VSCode le nom du serveur sur lequel vous souhaitez vous connecter. Pour cela, cliquez sur le bouton en bas à gauche de la fenêtre de VSCode : 
+La troisème étape consiste à indiquer a VSCode le nom du serveur sur lequel vous souhaitez vous connecter. 
+<del>Pour cela, cliquez sur le bouton en bas à gauche de la fenêtre de VSCode : </del>
 
 <img src="img/VSCode_newConnection.png"  width="600"/>
 
 
-Dans le menu qui s'ouvre cliquez sur *Connect to Host...* puis sur *+ Add New SSH Host*. Entrez alors la commande suivante 
-* `ssh [USER]@epyc4.cbp.ens-lyon.fr`,
+<del> Dans le menu qui s'ouvre cliquez sur *Connect to Host...* puis sur *+ Add New SSH Host*. Entrez alors la commande suivante </del>
+<del>* `ssh [USER]@epyc4.cbp.ens-lyon.fr`,</del>
 
-où [USER] est remplacé par l'identifiant de votre compte ENS. 
+<del>où [USER] est remplacé par l'identifiant de votre compte ENS.</del>
+
+Modifiez (créez) le fichier de configuration ssh : 
+
+- Linux	~/.ssh/config	
+- macOS	~/.ssh/config
+- Windows	C:\Users\<TonNom>\.ssh\config
+
+Le contenu a y indiquer est [ici](config)
 
 Vous pouvez alors cliquer de nouveau sur le bouton en bas à gauche de la fenêtre VSCode et voir, cette fois-ci, le serveur `epyc4.cbp.ens-lyon.fr`apparaitra dans le menu. Sélectionnez-le, votre mot de passe vous sera demandé. Une nouvelle fenêtre VSCode s'ouvre, vous êtes connecté au serveur. 
 

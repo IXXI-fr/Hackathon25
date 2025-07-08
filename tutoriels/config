@@ -1,0 +1,8 @@
+Host ssh
+  HostName 140.77.166.79
+  User z524832
+
+Host anchiale17.cbp.ens-lyon.fr
+  ProxyJump ssh
+  HostName anchiale17.cbp.ens-lyon.fr
+  User z524832
