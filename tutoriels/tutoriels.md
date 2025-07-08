@@ -2,7 +2,7 @@
 
 Pour ce hackathon, nous utiliserons des ressources proposées par le [Centre Blaise Pascal de Simulation et de Modélisation Numérique (CBPsmn)](https://www.cbp.ens-lyon.fr) :
 - Les Grands Modèles de Langage que nous utiliserons sont hébérgés sur les serveurs du CBPsmn
-- Le code que nous écrirons sera hébergé et exécuté sur les serveurs du CBPsmn
+- Le code que nous écrirons sera hébergé et exécuté sur [les serveurs du CBPsmn](https://www.cbp.ens-lyon.fr/doku.php?id=animation:evenements:hackathonixxi)
 
 La première partie de ces tutoriels vous indiquera comment configurer votre environnement de travail. 
 
