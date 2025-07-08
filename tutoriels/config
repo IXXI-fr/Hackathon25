@@ -1,8 +1,10 @@
-Host ssh
-  HostName 140.77.166.79
-  User z524832
+Host hackathon
+Hostname 140.77.166.79
+user [LOGIN]
+Port 22
 
-Host anchiale17.cbp.ens-lyon.fr
-  ProxyJump ssh
-  HostName anchiale17.cbp.ens-lyon.fr
-  User z524832
+# Automatic connection to hosts behind a firewall
+Host *.hackathon
+ProxyCommand ssh hackathon "nc `basename %h .hackathon` %p"
+User [LOGIN]
+Compression yes
