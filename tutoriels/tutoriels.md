@@ -32,9 +32,9 @@ La troisème étape consiste à indiquer a VSCode le nom du serveur sur lequel v
 
 Modifiez (créez) le fichier de configuration ssh : 
 
-- Linux	~/.ssh/config	
-- macOS	~/.ssh/config
-- Windows	C:\Users\\<TonNom>\.ssh\config
+- Linux	`~/.ssh/config`
+- macOS	`~/.ssh/config`
+- Windows	`C:\Users\<TonNom>\.ssh\config`
 
 Le contenu a y indiquer est [ici](config)
 
